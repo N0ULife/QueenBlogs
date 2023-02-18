@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Personality Type
-subtitle: Each post also has a subtitle
-tags: [test, none]
+subtitle: The Personality that suits me the most
+tags: [test]
 ---
 
 ![personality](/assets/img/326788887_867391304556570_72550029657776910_n.jpg){: .mx-auto.d-block :}
@@ -23,5 +23,3 @@ Judging to Prospecting Ratio
 ![stats5](/assets/img/326561727_1388978841643022_7738375910464638434_n.jpg){: .mx-auto.d-block :}
 Assertive to Turbulent Ratio
 
-{: .box-warning}
-**Warning:** Ulol.
