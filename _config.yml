@@ -49,8 +49,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "escudero.elton@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "quennie.murillo@gmail.com"
   facebook: Qquennie
 #  medium: yourname
 #  reddit: yourname
@@ -58,7 +57,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: knownasring
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
