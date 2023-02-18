@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Tecnoprenseurship
+title: Personality Type
 subtitle: Each post also has a subtitle
 tags: [test, none]
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
+assets/img/326788887_867391304556570_72550029657776910_n.jpg
 ### Warning
 
 {: .box-warning}
