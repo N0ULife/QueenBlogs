@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tecnopreneurship
-subtitle: Each post also has a subtitle
+subtitle:Each post also has a subtitle
 tags: [test]
 ---
 
