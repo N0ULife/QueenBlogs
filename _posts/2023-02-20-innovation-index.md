@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personality Type
+title: Innovation Index
 subtitle: Innovation Mindset Evaluation Results
 tags: [test]
 ---
