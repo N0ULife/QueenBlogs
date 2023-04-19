@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovation Index
-subtitle: Innovation Mindset Evaluation Results
+subtitle: Week 2
 tags: [test]
 ---
 
