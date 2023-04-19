@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personality Type
-subtitle: The Personality that suits me the most
+subtitle: Week 1
 tags: [test]
 ---
 
